@@ -1,0 +1,5 @@
+C:\Users\jehu\Documents\Visual Studio 2012\Projects\ejercicios 2 semana 2 programacion\ejercicio 1 semana 2 programacion\bin\Release\ejercicio 1 semana 2 programacion.exe.config
+C:\Users\jehu\Documents\Visual Studio 2012\Projects\ejercicios 2 semana 2 programacion\ejercicio 1 semana 2 programacion\bin\Release\ejercicio 1 semana 2 programacion.exe
+C:\Users\jehu\Documents\Visual Studio 2012\Projects\ejercicios 2 semana 2 programacion\ejercicio 1 semana 2 programacion\bin\Release\ejercicio 1 semana 2 programacion.pdb
+C:\Users\jehu\Documents\Visual Studio 2012\Projects\ejercicios 2 semana 2 programacion\ejercicio 1 semana 2 programacion\obj\Release\ejercicio 1 semana 2 programacion.exe
+C:\Users\jehu\Documents\Visual Studio 2012\Projects\ejercicios 2 semana 2 programacion\ejercicio 1 semana 2 programacion\obj\Release\ejercicio 1 semana 2 programacion.pdb
